@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="PatchResponse" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-19T11:24:44" hostname="Shashwats-MacBook-Pro.local" time="2.951">
-  <properties/>
-  <testcase name="path" classname="PatchResponse" time="2.951"/>
-  <system-out><![CDATA[zion resident
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

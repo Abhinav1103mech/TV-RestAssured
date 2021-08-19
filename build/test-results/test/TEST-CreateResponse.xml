@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CreateResponse" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-08-19T15:43:03" hostname="Shashwats-MacBook-Pro.local" time="2.925">
+  <properties/>
+  <testcase name="shouldLogin" classname="CreateResponse" time="2.925"/>
+  <testcase name="shouldCreateUser" classname="CreateResponse" time="2.925"/>
+  <system-out><![CDATA[morpheus
+QpwL5tke4Pnpja7X4
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
